@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 
 # === CONFIGURATION ===
 BOT_TOKEN = "8474265926:AAExR2jEP_t7w0HLRbF-B7KE2RVFNu--cJE"  # Step 1 से मिला token यहाँ डालें
-ADMIN_ID = "@siddhantsahu570"  # Your personal Telegram ID
+ADMIN_ID = "siddhantsahu570"  # Your personal Telegram ID
 
 # Enable logging
 logging.basicConfig(
@@ -434,3 +434,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
